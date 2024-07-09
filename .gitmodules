@@ -1,3 +1,6 @@
 [submodule "workshops/huckleberry"]
 	path = workshops/huckleberry
 	url = https://github.com/dev-feriansyah/css-for-js-workshop1-huckleberry.git
+[submodule "challenges/qr-code-component"]
+	path = challenges/qr-code-component
+	url = git@github.com:dev-feriansyah/frontendmentor-qr-code-component.git
