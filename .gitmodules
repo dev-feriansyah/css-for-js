@@ -4,3 +4,6 @@
 [submodule "challenges/qr-code-component"]
 	path = challenges/qr-code-component
 	url = git@github.com:dev-feriansyah/frontendmentor-qr-code-component.git
+[submodule "challenges/blog-preview-card"]
+	path = challenges/blog-preview-card
+	url = git@github.com:dev-feriansyah/frontendmentor-blog-preview-card.git
