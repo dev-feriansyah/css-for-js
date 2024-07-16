@@ -7,3 +7,6 @@
 [submodule "challenges/blog-preview-card"]
 	path = challenges/blog-preview-card
 	url = git@github.com:dev-feriansyah/frontendmentor-blog-preview-card.git
+[submodule "workshops/character-creator"]
+	path = workshops/character-creator
+	url = git@github.com:dev-feriansyah/css-for-js-workshop2-character-creator.git
