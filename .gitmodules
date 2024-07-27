@@ -10,3 +10,6 @@
 [submodule "workshops/character-creator"]
 	path = workshops/character-creator
 	url = git@github.com:dev-feriansyah/css-for-js-workshop2-character-creator.git
+[submodule "workshops/mini-component-library"]
+	path = workshops/mini-component-library
+	url = git@github.com:dev-feriansyah/css-for-js-workshop3-mini-component-library.git
