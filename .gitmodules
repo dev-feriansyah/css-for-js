@@ -13,3 +13,9 @@
 [submodule "workshops/mini-component-library"]
 	path = workshops/mini-component-library
 	url = git@github.com:dev-feriansyah/css-for-js-workshop3-mini-component-library.git
+[submodule "workshops/sole-and-ankle"]
+	path = workshops/sole-and-ankle
+	url = https://github.com/dev-feriansyah/css-for-js-workshop4-sole-and-ankle
+[submodule "challenges/product-preview-card"]
+	path = challenges/product-preview-card
+	url = git@github.com:dev-feriansyah/frontendmentor-product-preview-card.git
